@@ -1,9 +1,15 @@
 Quality Policy
 Describe your Quality Policy in detail for this Sprint (remember what I ask you to do when I talk about the "In your Project" part in the lectures and what is mentioned after each assignment (in due course you will need to fill out all of them, check which ones are needed for each Deliverable). You should keep adding things to this file and adjusting your policy as you go. Check in Project: Module Concepts document on Canvas in the Project module for more details
+
+
 GitHub Workflow (ice_breaker)
+
 -Should have a branch Master(main) which all mergers should be tested before adding into Master. 
+
 -Branches should pull out from the Master branch.
+
 -Have a specific commit "comments"
+
 
 GitHub Workflow (start Sprint 1)
 
